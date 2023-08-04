@@ -21,12 +21,12 @@
     <message>
         <location filename="../src/dialogs/actionsdialog.cpp" line="262"/>
         <source>Click on the selected shortcut to show the editor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">エディタを表示するためのショートカットを選択</translation>
     </message>
     <message>
         <location filename="../src/dialogs/actionsdialog.cpp" line="266"/>
         <source>Reserved shortcuts can not be edited</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">予約済のショートカットは編集できません</translation>
     </message>
 </context>
 <context>
@@ -34,27 +34,27 @@
     <message>
         <location filename="../src/models/actionsmodel.cpp" line="187"/>
         <source>Shortcut %1 is used by %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ショートカット %1 は %2 で使用されます</translation>
     </message>
     <message>
         <location filename="../src/models/actionsmodel.cpp" line="196"/>
         <source>Shortcut %1 is reserved for use by %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ショートカット %1 は %2 で使用するために予約されています</translation>
     </message>
     <message>
         <location filename="../src/models/actionsmodel.cpp" line="230"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">アクション</translation>
     </message>
     <message>
         <location filename="../src/models/actionsmodel.cpp" line="232"/>
         <source>Shortcut 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ショートカット1</translation>
     </message>
     <message>
         <location filename="../src/models/actionsmodel.cpp" line="234"/>
         <source>Shortcut 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ショートカット2</translation>
     </message>
 </context>
 <context>
@@ -72,12 +72,12 @@
     <message>
         <location filename="../src/dialogs/addencodepresetdialog.ui" line="52"/>
         <source>File name extension</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ファイル名拡張子</translation>
     </message>
     <message>
         <location filename="../src/dialogs/addencodepresetdialog.ui" line="59"/>
         <source>for example, mp4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">例えばmp4</translation>
     </message>
     <message>
         <location filename="../src/dialogs/addencodepresetdialog.ui" line="84"/>
@@ -90,12 +90,12 @@
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="235"/>
         <source>Reference audio track</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">音声トラックを参照</translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="250"/>
         <source>Speed adjustment range</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">速度調整範囲</translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="253"/>
@@ -105,7 +105,7 @@
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="254"/>
         <source>Narrow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">狭い</translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="256"/>
@@ -115,17 +115,17 @@
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="258"/>
         <source>Wide</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">広い</translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="259"/>
         <source>Very wide</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">とても広い</translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="299"/>
         <source>Process</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">処理</translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="302"/>
@@ -135,7 +135,7 @@
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="305"/>
         <source>Process + Apply</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">処理+適用</translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="343"/>
@@ -5704,82 +5704,82 @@ Try again with a different folder.</source>
     <message>
         <location filename="../src/player.cpp" line="377"/>
         <source>Skip to the next point</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">次ポイントまでスキップ</translation>
     </message>
     <message>
         <location filename="../src/player.cpp" line="400"/>
         <source>Skip to the previous point</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">前ポイントまでスキップ</translation>
     </message>
     <message>
         <location filename="../src/player.cpp" line="425"/>
         <source>Play quickly backwards</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">逆向きで高速再生</translation>
     </message>
     <message>
         <location filename="../src/player.cpp" line="435"/>
         <source>Play quickly forwards</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">高速再生</translation>
     </message>
     <message>
         <location filename="../src/player.cpp" line="439"/>
         <source>Seek Start</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">シーク開始</translation>
     </message>
     <message>
         <location filename="../src/player.cpp" line="446"/>
         <source>Seek End</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">シーク終了</translation>
     </message>
     <message>
         <location filename="../src/player.cpp" line="454"/>
         <source>Next Frame</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">次フレーム</translation>
     </message>
     <message>
         <location filename="../src/player.cpp" line="463"/>
         <source>Previous Frame</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">前フレーム</translation>
     </message>
     <message>
         <location filename="../src/player.cpp" line="472"/>
         <source>Forward One Second</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1秒進む</translation>
     </message>
     <message>
         <location filename="../src/player.cpp" line="480"/>
         <source>Backward One Second</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1秒戻る</translation>
     </message>
     <message>
         <location filename="../src/player.cpp" line="488"/>
         <source>Forward Two Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2秒進む</translation>
     </message>
     <message>
         <location filename="../src/player.cpp" line="496"/>
         <source>Backward Two Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2秒戻る</translation>
     </message>
     <message>
         <location filename="../src/player.cpp" line="504"/>
         <source>Forward Five Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5秒進む</translation>
     </message>
     <message>
         <location filename="../src/player.cpp" line="512"/>
         <source>Backward Five Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5秒戻る</translation>
     </message>
     <message>
         <location filename="../src/player.cpp" line="520"/>
         <source>Forward Ten Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">10秒進む</translation>
     </message>
     <message>
         <location filename="../src/player.cpp" line="528"/>
         <source>Backward Ten Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">10秒戻る</translation>
     </message>
     <message>
         <location filename="../src/player.cpp" line="536"/>
@@ -6030,7 +6030,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/docks/playlistdock.cpp" line="213"/>
         <source>Playlist Menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">プレイリストメニュー</translation>
     </message>
     <message>
         <location filename="../src/docks/playlistdock.cpp" line="306"/>
@@ -6130,17 +6130,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/docks/playlistdock.cpp" line="186"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">選択</translation>
     </message>
     <message>
         <location filename="../src/docks/playlistdock.cpp" line="208"/>
         <source>Playlist Controls</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">プレイリストコントロール</translation>
     </message>
     <message>
         <location filename="../src/docks/playlistdock.cpp" line="332"/>
         <source>Add files to playlist</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">プレイリストにファイルを追加</translation>
     </message>
     <message>
         <location filename="../src/docks/playlistdock.cpp" line="351"/>
@@ -6175,67 +6175,67 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../src/docks/playlistdock.cpp" line="462"/>
         <source>Move Up</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">上に移動</translation>
     </message>
     <message>
         <location filename="../src/docks/playlistdock.cpp" line="474"/>
         <source>Move Down</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">下に移動</translation>
     </message>
     <message>
         <location filename="../src/docks/playlistdock.cpp" line="599"/>
         <source>Open Previous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">前を開く</translation>
     </message>
     <message>
         <location filename="../src/docks/playlistdock.cpp" line="612"/>
         <source>Open Next</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">次を開く</translation>
     </message>
     <message>
         <location filename="../src/docks/playlistdock.cpp" line="625"/>
         <source>Select Clip 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">クリップ1を選択</translation>
     </message>
     <message>
         <location filename="../src/docks/playlistdock.cpp" line="638"/>
         <source>Select Clip 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">クリップ2を選択</translation>
     </message>
     <message>
         <location filename="../src/docks/playlistdock.cpp" line="650"/>
         <source>Select Clip 3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">クリップ3を選択</translation>
     </message>
     <message>
         <location filename="../src/docks/playlistdock.cpp" line="662"/>
         <source>Select Clip 4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">クリップ4を選択</translation>
     </message>
     <message>
         <location filename="../src/docks/playlistdock.cpp" line="674"/>
         <source>Select Clip 5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">クリップ5を選択</translation>
     </message>
     <message>
         <location filename="../src/docks/playlistdock.cpp" line="686"/>
         <source>Select Clip 6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">クリップ6を選択</translation>
     </message>
     <message>
         <location filename="../src/docks/playlistdock.cpp" line="698"/>
         <source>Select Clip 7</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">クリップ7を選択</translation>
     </message>
     <message>
         <location filename="../src/docks/playlistdock.cpp" line="710"/>
         <source>Select Clip 8</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">クリップ8を選択</translation>
     </message>
     <message>
         <location filename="../src/docks/playlistdock.cpp" line="722"/>
         <source>Select Clip 9</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">クリップ9を選択</translation>
     </message>
     <message numerus="yes">
         <location filename="../src/docks/playlistdock.cpp" line="759"/>
