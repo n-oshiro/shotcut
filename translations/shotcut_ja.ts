@@ -6,7 +6,7 @@
     <message>
         <location filename="../src/dialogs/actionsdialog.cpp" line="205"/>
         <source>Actions and Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">アクションとショートカット</translation>
     </message>
     <message>
         <location filename="../src/dialogs/actionsdialog.cpp" line="213"/>
@@ -140,32 +140,32 @@
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="343"/>
         <source>This clip will be skipped because it is on the reference track.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">このクリップは、参照トラック上にあるためスキップされます。</translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="349"/>
         <source>This item can not be aligned.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">このアイテムは整列できません。</translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="359"/>
         <source>Align Audio</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">音声整列</translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="466"/>
         <source>Analyze Reference Track</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">参照トラックを解析</translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="474"/>
         <source>Analyze Clips</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">クリップを解析</translation>
     </message>
     <message>
         <location filename="../src/dialogs/alignaudiodialog.cpp" line="483"/>
         <source>Alignment not found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">整列が見つかりません。</translation>
     </message>
 </context>
 <context>
@@ -467,7 +467,7 @@
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="199"/>
         <source>Speed Presets</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">速度プリセット</translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="251"/>
@@ -572,7 +572,7 @@
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="668"/>
         <source>°</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">°</translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="691"/>
@@ -614,7 +614,7 @@
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="979"/>
         <source>Properties Menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">プロパティメニュー</translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="1090"/>
@@ -645,7 +645,7 @@
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="305"/>
         <source>Color range</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">色範囲</translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.ui" line="1003"/>
@@ -781,7 +781,7 @@ If yes, choose a format below and then click OK to choose a file name. After cho
     <message>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="567"/>
         <source>This file format (HDV) is not reliable for editing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">このファイル形式 (HDV) は、編集では信頼できません。</translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="754"/>
@@ -817,7 +817,7 @@ If yes, choose a format below and then click OK to choose a file name. After cho
     <message>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="931"/>
         <source>Convert canceled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">変換取消済み</translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="940"/>
@@ -833,7 +833,7 @@ If yes, choose a format below and then click OK to choose a file name. After cho
     <message>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="1158"/>
         <source>Reverse canceled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">逆転取消済み</translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="1185"/>
@@ -843,7 +843,7 @@ If yes, choose a format below and then click OK to choose a file name. After cho
     <message>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="1432"/>
         <source>Choose the Other Video</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">他の動画を選択</translation>
     </message>
     <message>
         <location filename="../src/widgets/avformatproducerwidget.cpp" line="1479"/>
@@ -1082,18 +1082,19 @@ If yes, choose a format below and then click OK to choose a file name. After cho
     <message>
         <location filename="../src/qml/views/filter/CopyFiltersDialog.qml" line="44"/>
         <source>Copy Filters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">フィルタをコピー</translation>
     </message>
     <message>
         <location filename="../src/qml/views/filter/CopyFiltersDialog.qml" line="57"/>
         <source>Enter a name to save a filter set, or
 leave blank to use the clipboard:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">保存するフィルタセットの名前を入力するか
+空白のままにしてクリップボードを利用します:</translation>
     </message>
     <message>
         <location filename="../src/qml/views/filter/CopyFiltersDialog.qml" line="64"/>
         <source>optional</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">オプション</translation>
     </message>
     <message>
         <location filename="../src/qml/views/filter/CopyFiltersDialog.qml" line="84"/>
@@ -1375,7 +1376,7 @@ leave blank to use the clipboard:</source>
     <message>
         <location filename="../src/dialogs/editmarkerdialog.cpp" line="31"/>
         <source>Edit Marker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">マーカー編集</translation>
     </message>
 </context>
 <context>
@@ -1383,7 +1384,7 @@ leave blank to use the clipboard:</source>
     <message>
         <location filename="../src/widgets/editmarkerwidget.cpp" line="45"/>
         <source>Set the name for this marker.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">このマーカーの名前を指定</translation>
     </message>
     <message>
         <location filename="../src/widgets/editmarkerwidget.cpp" line="48"/>
@@ -1398,7 +1399,7 @@ leave blank to use the clipboard:</source>
     <message>
         <location filename="../src/widgets/editmarkerwidget.cpp" line="61"/>
         <source>Set the start time for this marker.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">このマーカーの開始時刻を指定</translation>
     </message>
     <message>
         <location filename="../src/widgets/editmarkerwidget.cpp" line="65"/>
@@ -1408,12 +1409,12 @@ leave blank to use the clipboard:</source>
     <message>
         <location filename="../src/widgets/editmarkerwidget.cpp" line="70"/>
         <source>Set the end time for this marker.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">このマーカーの終了時刻を指定</translation>
     </message>
     <message>
         <location filename="../src/widgets/editmarkerwidget.cpp" line="74"/>
         <source>Duration:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">間隔:</translation>
     </message>
 </context>
 <context>
@@ -1591,7 +1592,7 @@ with parallel processing enabled.</source>
     <message>
         <location filename="../src/docks/encodedock.ui" line="515"/>
         <source>Color range</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">色範囲</translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.ui" line="533"/>
@@ -1611,12 +1612,12 @@ with parallel processing enabled.</source>
     <message>
         <location filename="../src/docks/encodedock.ui" line="799"/>
         <source>YADIF - temporal + spatial (better)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">YADIF - 時間 + 空間 (より良い)</translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.ui" line="804"/>
         <source>BWDIF (best)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">BWDIF (最適)</translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.ui" line="881"/>
@@ -1908,7 +1909,7 @@ in temporal compression</source>
         <location filename="../src/docks/encodedock.cpp.orig" line="434"/>
         <location filename="../src/docks/encodedock.cpp.orig" line="441"/>
         <source>Marker</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">マーカー</translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.cpp" line="448"/>
@@ -2258,7 +2259,7 @@ Do you still want to continue?</source>
     <message>
         <location filename="../src/qml/views/filter/FilterMenu.qml" line="192"/>
         <source>Show GPU video filters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">GPU動画フィルタを表示</translation>
     </message>
     <message>
         <location filename="../src/qml/views/filter/FilterMenu.qml" line="213"/>
@@ -2283,12 +2284,12 @@ Do you still want to continue?</source>
     <message>
         <location filename="../src/qml/views/filter/FilterMenu.qml" line="266"/>
         <source>Sets</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">セット</translation>
     </message>
     <message>
         <location filename="../src/qml/views/filter/FilterMenu.qml" line="277"/>
         <source>Show filter sets</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">フィルタセットを表示</translation>
     </message>
     <message>
         <location filename="../src/qml/views/filter/FilterMenu.qml" line="132"/>
@@ -2298,7 +2299,7 @@ Do you still want to continue?</source>
     <message>
         <location filename="../src/qml/views/filter/FilterMenu.qml" line="364"/>
         <source>Delete a custom filter set by right-clicking it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">右クリックでカスタムフィルタセットを削除</translation>
     </message>
     <message>
         <location filename="../src/qml/views/filter/FilterMenu.qml" line="157"/>
@@ -2321,13 +2322,14 @@ Do you still want to continue?</source>
     <message>
         <location filename="../src/qml/views/filter/FilterMenuDelegate.qml" line="117"/>
         <source>Delete Filter Set</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">フィルタセットを削除</translation>
     </message>
     <message>
         <location filename="../src/qml/views/filter/FilterMenuDelegate.qml" line="129"/>
         <source>Are you sure you want to delete this?
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本当にこれを削除していいですか？
+%1</translation>
     </message>
     <message>
         <location filename="../src/qml/views/filter/FilterMenuDelegate.qml" line="144"/>
@@ -2355,7 +2357,7 @@ Do you still want to continue?</source>
     <message>
         <location filename="../src/docks/filtersdock.cpp" line="193"/>
         <source>Choose a filter to add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">追加するフィルタを選択</translation>
     </message>
     <message>
         <location filename="../src/docks/filtersdock.cpp" line="206"/>
@@ -2370,22 +2372,22 @@ Do you still want to continue?</source>
     <message>
         <location filename="../src/docks/filtersdock.cpp" line="218"/>
         <source>Copy Filters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">フィルタをコピー</translation>
     </message>
     <message>
         <location filename="../src/docks/filtersdock.cpp" line="219"/>
         <source>Copy checked filters to the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">チェックしたフィルタをクリップボードにコピー</translation>
     </message>
     <message>
         <location filename="../src/docks/filtersdock.cpp" line="229"/>
         <source>Paste Filters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">フィルタを貼り付け</translation>
     </message>
     <message>
         <location filename="../src/docks/filtersdock.cpp" line="230"/>
         <source>Paste the filters from the clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">クリップボードからフィルタを貼り付け</translation>
     </message>
 </context>
 <context>
@@ -2490,7 +2492,7 @@ Do you still want to continue?</source>
     <message>
         <location filename="../src/widgets/glaxnimateproducerwidget.cpp" line="601"/>
         <source>Preparing Glaxnimate preview....</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Glaxnimateプレビューの準備中....</translation>
     </message>
     <message>
         <location filename="../src/widgets/glaxnimateproducerwidget.cpp" line="654"/>
